@@ -1,5 +1,5 @@
 # *Zowe Doc site generator and UI*
-## *Short Project Description*
+## Project Description
 The [Zowe doc site](http://docs.zowe.org/) is built using Vuepress. With the content for the site growing in size and complexity, users need better user experience. Complete project description/requirements of the project could be found [here](https://github.com/zowe/docs-site/issues/1587).
 
 ### Why a new site generator is being considered
